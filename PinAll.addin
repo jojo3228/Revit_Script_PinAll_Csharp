@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>AttachElements</Name>
+		<Assembly>PinAll\PinAll.dll</Assembly>
+		<AddInId>
+			55CD572D-34BB-4DB5-B3BF-2B096FC6B433
+		</AddInId>
+		<FullClassName>PinAll.AttachElements</FullClassName>
+		<Text>Pin All Elements</Text>
+		<Description>Прикрепляет все оси, уровни и связи</Description>
+		<VendorId>NikitaPavlov</VendorId>
+		<VendorDescription>@LearnC#</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
